@@ -657,5 +657,5 @@ var MMCQ = (function() {
 })();
 
 module.exports = {
-  ColorThief,
+  ColorThief: ColorThief
 };
